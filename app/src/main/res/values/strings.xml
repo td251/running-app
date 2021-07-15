@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AdvancedMobile</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Start recording an activity</string>
+    <string name="previous">Previous</string>
+    <string name="Login">Click to login</string>
+    <string name="hello_first_fragment">Hi Tyler, this is your profile </string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="MAPS_API_KEY">AIzaSyCblGb3zBR6k6n33WRJ_PuTH8bp-iMaPZs</string>
+</resources>
